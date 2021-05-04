@@ -1,4 +1,4 @@
-# AnimeJs background
+# User Card with Light & Dark Theme
 
 ![Project Overview](https://github.com/juliospelucio/miscellaneous/blob/light-dark-theme/project-overview.gif)
 
