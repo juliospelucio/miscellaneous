@@ -7,3 +7,4 @@ Select a branch to see the projects.
 * [AnimateJs Background](https://github.com/juliospelucio/miscellaneous/tree/animejs-background)
 * [Floating Draggable Menu](https://github.com/juliospelucio/miscellaneous/tree/floating-draggable-menu)
 * [Glassmorphism Calendar](https://github.com/juliospelucio/miscellaneous/tree/glassmorphism-calendar)
+* [Light & Dark Theme](https://github.com/juliospelucio/miscellaneous/tree/light-dark-theme)
